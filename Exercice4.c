@@ -1,3 +1,7 @@
+// Exercice 4 (Inversion d’une liste)
+ — Écrire un programme qui permet de créer une liste chaînée inverse d’une autre liste (premier élément en dernier,
+ deuxième en avant dernier etc.).
+
 #include<stdio.h>
 #include<stdlib.h>
 
